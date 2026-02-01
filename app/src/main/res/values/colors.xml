@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material 3 Theme Colors - Medical/Healthcare themed -->
+    <color name="md_theme_primary">#006C51</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_primaryContainer">#89F8D2</color>
+    <color name="md_theme_onPrimaryContainer">#002117</color>
+    
+    <color name="md_theme_secondary">#4A635C</color>
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <color name="md_theme_secondaryContainer">#CCE8DF</color>
+    <color name="md_theme_onSecondaryContainer">#06201A</color>
+    
+    <color name="md_theme_tertiary">#416376</color>
+    <color name="md_theme_onTertiary">#FFFFFF</color>
+    <color name="md_theme_tertiaryContainer">#C4E8FE</color>
+    <color name="md_theme_onTertiaryContainer">#001E2D</color>
+    
+    <color name="md_theme_error">#BA1A1A</color>
+    <color name="md_theme_onError">#FFFFFF</color>
+    <color name="md_theme_errorContainer">#FFDAD6</color>
+    <color name="md_theme_onErrorContainer">#410002</color>
+    
+    <color name="md_theme_background">#FBFDF9</color>
+    <color name="md_theme_onBackground">#191C1A</color>
+    <color name="md_theme_surface">#FBFDF9</color>
+    <color name="md_theme_onSurface">#191C1A</color>
+    
+    <color name="md_theme_surfaceVariant">#DBE5DE</color>
+    <color name="md_theme_onSurfaceVariant">#3F4945</color>
+    <color name="md_theme_outline">#6F7975</color>
+    
+    <!-- Additional colors -->
+    <color name="locked_overlay">#80000000</color>
+    <color name="pro_badge">#FFD700</color>
+</resources>

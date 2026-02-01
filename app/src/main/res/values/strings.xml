@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Medical Bill Claim Pack</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">Medical Bill Claim Pack</string>
+    <string name="home_subtitle">Convert bills to insurance claim packs</string>
+    <string name="pick_pdf_button">Pick Medical Bill PDF</string>
+    <string name="recent_files">Recent Files</string>
+    <string name="no_files_yet">No files yet. Start by picking a PDF bill.</string>
+    <string name="upgrade_to_pro">Upgrade to Pro</string>
+    
+    <!-- Splash Screen -->
+    <string name="splash_loading">Loading…</string>
+    
+    <!-- Convert Progress Screen -->
+    <string name="convert_progress_title">Processing Bill</string>
+    <string name="progress_rendering">Rendering PDF pages…</string>
+    <string name="progress_ocr">Performing OCR…</string>
+    <string name="progress_extracting">Extracting data…</string>
+    <string name="progress_complete">Processing Complete</string>
+    <string name="retry_button">Retry</string>
+    
+    <!-- Preview Screen -->
+    <string name="preview_title">Bill Preview</string>
+    <string name="patient_name">Patient Name:</string>
+    <string name="hospital_name">Hospital Name:</string>
+    <string name="invoice_date">Invoice Date:</string>
+    <string name="bill_number">Bill Number:</string>
+    <string name="total_amount">Total Amount:</string>
+    <string name="line_items">Line Items</string>
+    <string name="description_column">Description</string>
+    <string name="quantity_column">Qty</string>
+    <string name="rate_column">Rate</string>
+    <string name="amount_column">Amount</string>
+    <string name="limited_preview">Limited Preview - Upgrade to Pro for full access</string>
+    <string name="unlock_all">Unlock All Items</string>
+    
+    <!-- Claim Pack Preview Screen -->
+    <string name="claim_pack_title">Claim Pack Preview</string>
+    <string name="cover_page">Cover Page</string>
+    <string name="summary_totals">Summary Totals</string>
+    <string name="room_rent">Room Rent:</string>
+    <string name="medicine_expenses">Medicine Expenses:</string>
+    <string name="diagnostics">Diagnostics:</string>
+    <string name="doctor_fees">Doctor Fees:</string>
+    <string name="edit_data">Edit Data</string>
+    <string name="export_claim_pack">Export Claim Pack</string>
+    
+    <!-- Export Screen -->
+    <string name="export_title">Export Options</string>
+    <string name="export_pdf">Export as PDF</string>
+    <string name="export_csv">Export as CSV</string>
+    <string name="export_xlsx">Export as Excel (XLSX)</string>
+    <string name="share_files">Share Files</string>
+    <string name="export_locked">Exports are locked. Upgrade to Pro!</string>
+    
+    <!-- Paywall Screen -->
+    <string name="paywall_title">Upgrade to Pro</string>
+    <string name="paywall_subtitle">Unlock all features</string>
+    <string name="free_tier_title">Free Tier</string>
+    <string name="free_feature_1">✓ Preview first 10 line items</string>
+    <string name="free_feature_2">✗ Export functionality disabled</string>
+    <string name="free_feature_3">✗ Limited claim pack generation</string>
+    <string name="pro_tier_title">Pro Tier - ₹399</string>
+    <string name="pro_feature_1">✓ Unlimited line item extraction</string>
+    <string name="pro_feature_2">✓ Full export capabilities (PDF, CSV, XLSX)</string>
+    <string name="pro_feature_3">✓ Complete claim pack generation</string>
+    <string name="pro_feature_4">✓ Edit extracted data</string>
+    <string name="pro_feature_5">✓ Share generated files</string>
+    <string name="purchase_button">Purchase Pro - ₹399</string>
+    <string name="restore_purchase">Restore Purchase</string>
+    <string name="processing_purchase">Processing purchase…</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings</string>
+    <string name="purchase_status">Purchase Status</string>
+    <string name="status_free">Free User</string>
+    <string name="status_pro">Pro User ✓</string>
+    <string name="restore_purchases">Restore Purchases</string>
+    <string name="clear_history">Clear History</string>
+    <string name="clear_history_confirm">This will delete all saved files and data. Continue?</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="about">About</string>
+    <string name="version">Version 1.0</string>
+    
+    <!-- Billing Messages -->
+    <string name="billing_error">Billing error occurred. Please try again.</string>
+    <string name="purchase_success">Purchase successful! Thank you for upgrading to Pro.</string>
+    <string name="purchase_pending">Purchase is pending. Please check back later.</string>
+    <string name="already_owned">You already own this item.</string>
+    <string name="restore_success">Purchase restored successfully!</string>
+    <string name="restore_failed">No purchase found to restore.</string>
+    
+    <!-- Error Messages -->
+    <string name="error_pdf_load">Failed to load PDF. Please try again.</string>
+    <string name="error_ocr">OCR processing failed. Please try again.</string>
+    <string name="error_extraction">Data extraction failed. Please check the bill format.</string>
+    <string name="error_export">Export failed. Please try again.</string>
+    <string name="low_confidence_warning">Some data may be inaccurate. Please review carefully.</string>
+    
+    <!-- Common -->
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="close">Close</string>
+    <string name="continue_text">Continue</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="loading">Loading…</string>
+</resources>
